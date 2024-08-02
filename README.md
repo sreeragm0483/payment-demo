@@ -102,4 +102,4 @@ This project consists of two main folders: `frontend` and `backend`. Follow the 
 
 Here is a demo of the application:
 
-<video controls src="assets/demo.mp4" title="Title"></video>
+<video controls src="https://github.com/sreeragm0483/payment-demo/blob/main/assets/demo.mp4" title="Title"></video>
