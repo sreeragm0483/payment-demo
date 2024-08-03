@@ -90,6 +90,9 @@ This project consists of two main folders: `frontend` and `backend`. Follow the 
 
 #### Backend
 
+
+
+
 - [x] Custom methods for Stripe to simplify implementation
 - [x] Dynamic Controller for creating payment endpoints
 - [x] Webhook for confirming transactions
@@ -101,4 +104,7 @@ This project consists of two main folders: `frontend` and `backend`. Follow the 
 ## Demo
 
 Here is a demo of the application:
-<video src='https://raw.githubusercontent.com/sreeragm0483/payment-demo/main/assets/demo.mp4' >
+
+https://github.com/user-attachments/assets/7bcd1c22-d67c-4265-9265-f6efb219edb0
+
+
